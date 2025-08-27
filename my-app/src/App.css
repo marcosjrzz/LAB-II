@@ -1,0 +1,27 @@
+.App {
+  text-align: center;
+  padding: 2rem;
+  background-color: #000000;
+}
+
+h1 {
+  color: #ffffff;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 700;
+  font-size: 2.5rem;
+  margin-bottom: 0.5rem;
+}
+
+p {
+  color: #a79b9b;
+  font-family: 'Roboto', sans-serif;
+  font-size: 1rem;
+  margin-bottom: 1rem;
+}
+
+h2 {
+  color: #ffffff;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 400;
+  font-size: 1.5rem;
+}
